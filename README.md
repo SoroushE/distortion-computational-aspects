@@ -1,2 +1,3 @@
-# distortion-computational-aspects
-Code for "Computational Aspects of Distortion"
+# Code for "Computational Aspects of Distortion"
+
+This repository contains the code used in paper "Computational Aspects of Distortion".
